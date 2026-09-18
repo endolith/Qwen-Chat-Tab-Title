@@ -1,12 +1,17 @@
 // ==UserScript==
 // @name         Qwen Chat - Prepend Chat Title to Tab Title
-// @namespace    https://github.com/
+// @namespace    https://github.com/endolith/Qwen-Chat-Tab-Title
 // @version      1.0.0
 // @description  Prepends the active chat title to the browser tab title on chat.qwen.ai (e.g. "Chat Title - Qwen Studio")
-// @author       Arena
+// @author       Arena.AI/endolith
 // @match        https://chat.qwen.ai/*
 // @match        https://chat.qwenlm.ai/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chat.qwen.ai
+// @license      MIT
+// @homepageURL  https://github.com/endolith/Qwen-Chat-Tab-Title
+// @supportURL   https://github.com/endolith/Qwen-Chat-Tab-Title/issues
+// @downloadURL  https://raw.githubusercontent.com/endolith/Qwen-Chat-Tab-Title/main/qwen-chat-tab-title.user.js
+// @updateURL    https://raw.githubusercontent.com/endolith/Qwen-Chat-Tab-Title/main/qwen-chat-tab-title.user.js
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
