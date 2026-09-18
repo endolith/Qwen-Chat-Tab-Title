@@ -65,3 +65,5 @@ If you encounter issues or have suggestions for improvements, please submit an I
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+(This was generated almost entirely by AI under human direction, so likely lacks the human authorship required for copyright in the US and is therefore in the public domain. MIT license applies anywhere else.)

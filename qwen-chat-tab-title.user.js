@@ -3,7 +3,7 @@
 // @namespace    https://github.com/endolith/Qwen-Chat-Tab-Title
 // @version      1.0.0
 // @description  Prepends the active chat title to the browser tab title on chat.qwen.ai (e.g. "Chat Title - Qwen Studio")
-// @author       Arena.AI/endolith
+// @author       endolith
 // @match        https://chat.qwen.ai/*
 // @match        https://chat.qwenlm.ai/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chat.qwen.ai
