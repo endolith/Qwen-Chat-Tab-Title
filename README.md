@@ -20,7 +20,7 @@ This is a Tampermonkey/Violentmonkey script that prepends the active conversatio
 
 1. Ensure you have a userscript manager installed (like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)).
 2. Click the following link to install the script:
-   - [Qwen Chat Tab Title Script Installation Link](https://github.com/endolith/Qwen-Chat-Tab-Title/raw/refs/heads/main/qwen-chat-tab-title.user.js)
+   - [Qwen Chat Tab Title Script Installation Link](https://github.com/endolith/Qwen-Chat-Tab-Title/raw/refs/heads/master/qwen-chat-tab-title.user.js)
 3. After installation, refresh your Qwen chat page.
 
 ---
